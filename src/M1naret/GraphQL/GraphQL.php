@@ -10,6 +10,7 @@ use M1naret\GraphQL\Support\PaginationType;
 
 class GraphQL
 {
+
     /** @noinspection PhpUndefinedClassInspection */
     /** @noinspection PhpUndefinedNamespaceInspection */
     /**
